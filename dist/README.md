@@ -1,6 +1,7 @@
 
-# asdf ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-https://www.gnu.org/licenses/gpl-3.0
+# asdf ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
+## License
+http://unlicense.org/
 
 ## Description
 asdf
@@ -23,8 +24,8 @@ asdf
 asdf
 
 ## Tests
-safd
+asfd
 
 ## Questions
-- [asf](https://github.com/asf)
-- <asdf>
+- [asfd](https://github.com/asfd)
+- <adsf>
