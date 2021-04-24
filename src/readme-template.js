@@ -1,23 +1,35 @@
-const generateReadme = (projectName, description) => {
+const generateReadme = (readmeData) => {
     return `
-## ${projectName}
+# ${readmeData.projectName}
 
 ## Description
-${description}
+
+${readmeData.description}
 
 ## Table of Contents
 
 ## Installation
 
+${readmeData.installation}
+
 ## Usage
+
+${readmeData.usage}
 
 ## License
 
+${readmeData.license}
+
 ## Contributing
 
+${readmeData.contributing}
 ## Tests
 
+${readmeData.tests}
 ## Questions
+
+[${readmeData.github}](http://github.com/${readmeData.github})
+<${readmeData.email}>
 `;
 };
 
