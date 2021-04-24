@@ -76,15 +76,9 @@ const writeFile = (data) => {
     generateReadme(data.readmeData, data.licenseInfo),
     (err) => {
       if (err) {
-        // reject(err);
-        // return;
         throw err;
       }
       console.log('File written!');
-      //   resolve({
-      //     ok: true,
-      //     message: 'File created!',
-      //   });
     }
   );
 
