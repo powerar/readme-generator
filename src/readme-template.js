@@ -24,7 +24,7 @@ http://creativecommons.org/publicdomain/zero/1.0/`
 
 const generateReadme = (readmeData, licenseInfo) => {
     return `
-# ${readmeData.projectName} ${generateLicense(licenseInfo)}
+## ${readmeData.projectName} ${generateLicense(licenseInfo)}
 
 ## Description
 ${readmeData.description}
