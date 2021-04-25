@@ -1,10 +1,10 @@
 
-## asdf ![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)
+## Readme Generator ![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)
 ## License
 http://creativecommons.org/publicdomain/zero/1.0/
 
 ## Description
-asdf
+A professional readme generator
 
 ## Table of Contents
 - [Description](##description)
@@ -15,17 +15,17 @@ asdf
 - [Questions](##questions)
 
 ## Installation
-asdf
+Clone the repository to your computer and run through node
 
 ## Usage
-asdf
+Free use
 
 ## Contributing
-sadf
+Email me below
 
 ## Tests
-sadf
+n/a
 
 ## Questions
-- [sadf](https://github.com/sadf)
-- <sadf>
+- [powerar](https://github.com/powerar)
+- <arpower@bell.net>
