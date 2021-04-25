@@ -98,5 +98,3 @@ promptUser().then(function (response) {
     writeFile(readmeData(value));
   });
 });
-
-//  .then(writeFile);

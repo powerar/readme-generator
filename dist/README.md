@@ -1,7 +1,7 @@
 
-## Obsidiflex ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
+## asdf ![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)
 ## License
-http://unlicense.org/
+http://creativecommons.org/publicdomain/zero/1.0/
 
 ## Description
 asdf
@@ -21,11 +21,11 @@ asdf
 asdf
 
 ## Contributing
-asdf
+sadf
 
 ## Tests
 sadf
 
 ## Questions
-- [asdf](https://github.com/asdf)
-- <asd>
+- [sadf](https://github.com/sadf)
+- <sadf>
